@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello! I'm Kampanat Konklong
 
-<!--
-**RomeyKung/RomeyKung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 **IT Graduate | Passionate about Web Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 สนใจเทคโนโลยีเกี่ยวกับ Web Apps
+📚 กำลังพัฒนาทักษะ Full Stack
+
+> **"Deploy ทีไร หัวใจจะวายทุกที"**
+
+---
+
+## 🛠 Tech Stack  
+
+### Frontend  
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,materialui,figma&theme=light)](https://skillicons.dev)
+
+
+### Backend  
+[![My Skills](https://skillicons.dev/icons?i=express,firebase,spring,mysql,redis,mongo&theme=light)](https://skillicons.dev)
+
+### กำลังศึกษาอยู่
+
+[![My Skills](https://skillicons.dev/icons?i=go,nest,kubernetes,docker,jenkins&theme=light)](https://skillicons.dev)
+
+---
+
+## 📫 How to reach me...
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romeykungdev@gmail.com)  
+
