@@ -17,7 +17,7 @@
 
 
 ### Backend  
-[![My Skills](https://skillicons.dev/icons?i=express,firebase,spring,mysql,redis,mongo&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,firebase,spring,mysql,postgresql,redis,mongo&theme=light)](https://skillicons.dev)
 
 ### กำลังศึกษาอยู่
 
